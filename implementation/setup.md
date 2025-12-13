@@ -21,12 +21,23 @@ Pokrenite priloženu `setup.sh` skriptu koja će instalirati Python ovisnosti, k
 
 Koraci prije pokretanja skripte su:
 
+sudo apt update
+sudo apt install build-essential clang llvm-dev libstdc++-dev python3-dev
+
+# Postavljanje core_pattern: AFL zahtijeva da se core dumpovi šalju njemu
+echo core | sudo tee /proc/sys/kernel/core_pattern
+# Onemogućavanje limita za core dump
+ulimit -c unlimited
+# Ubrzavanje performansi I/O operacija
+sudo sh -c 'echo performance | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor'
+
 # Prelazak u direktorij za alate
 cd implementation/tools/afl++
 
 # Kompilacija i instalacija
 # Kloniranje i kompilacija
 git clone https://github.com/AFLplusplus/AFLplusplus.git implementation/tools/afl++cd afl++
+cd AFLplusplus
 make all
 sudo make install
 which afl-gcc-fast
