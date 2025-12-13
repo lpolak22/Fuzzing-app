@@ -22,7 +22,7 @@ Pokrenite priloženu `setup.sh` skriptu koja će instalirati Python ovisnosti, k
 Koraci prije pokretanja skripte su:
 
 sudo apt update
-sudo apt install build-essential clang llvm-dev libstdc++-dev python3-dev
+sudo apt install build-essential clang llvm-dev libstdc++-14-dev python3-dev
 
 # Postavljanje core_pattern: AFL zahtijeva da se core dumpovi šalju njemu
 echo core | sudo tee /proc/sys/kernel/core_pattern
@@ -36,22 +36,45 @@ cd implementation/tools/afl++
 
 # Kompilacija i instalacija
 # Kloniranje i kompilacija
-git clone https://github.com/AFLplusplus/AFLplusplus.git implementation/tools/afl++cd afl++
+git clone https://github.com/AFLplusplus/AFLplusplus
 cd AFLplusplus
-make all
+sudo make all
 sudo make install
 which afl-gcc-fast
 
 
 # Instalacija preko package managera (Debian/Ubuntu)
-sudo apt update
-sudo apt install radamsa
+
+cd radamsa
+sudo apt install build-essential git
+git clone https://gitlab.com/akihe/radamsa.git
+cd radamsa
+sudo apt install ocaml ocaml-findlib opam
+make
+sudo make install
+which radamsa
+radamsa --version
+
+
 
 # Fuzzing parser_config
+
+cd ~/Documents/SIS/projekt/Fuzzing-app  #treba se pozicionirati u root folder 
+cd implementation/targets/target_CGF
+afl-clang-fast parser_config.c -o parser_config
+cd ~/Documents/SIS/projekt/Fuzzing-app 
 afl-fuzz -i implementation/targets/target_CGF/in -o implementation/targets/target_CGF/out implementation/targets/target_CGF/parser_config
 
 
+
+#Prije pokretanja, ne zaboravite dati skripti dozvolu za izvršavanje: 
+chmod +x implementation/setup.sh
+sudo apt install python3-venv  #ako nema instalirano vec prije
+#Pokrenite setup.sh
+./implementation/setup.sh 
+
 # Aktivacija venv-a
+
 source venv/bin/activate
 
 # Pokretanje Scapy fuzzer-a
@@ -59,6 +82,3 @@ python3 implementation/targets/target_Generation/fuzz_target4_scapy.py
 
 
 echo "test" | radamsa | implementation/targets/target_Mutation/cli_string_processor
-
-Prije pokretanja, ne zaboravite dati skripti dozvolu za izvršavanje: 
-chmod +x implementation/setup.sh
