@@ -26,10 +26,10 @@ cd implementation/tools/afl++
 
 # Kompilacija i instalacija
 # Kloniranje i kompilacija
-git clone [https://github.com/AFLplusplus/AFLplusplus.git](https://github.com/AFLplusplus/AFLplusplus.git) afl++
-cd afl++
+git clone https://github.com/AFLplusplus/AFLplusplus.git implementation/tools/afl++cd afl++
 make all
 sudo make install
+which afl-gcc-fast
 
 
 # Instalacija preko package managera (Debian/Ubuntu)
