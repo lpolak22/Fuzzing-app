@@ -1,0 +1,62 @@
+# ----------------------------------------
+# 1. Izvršne i kompilacijske datoteke (C/C++)
+# ----------------------------------------
+
+# Izvršne datoteke (npr. nakon gcc-a)
+*.o
+*.a
+*.so
+*.out
+# Nasi izvršni targeti
+parser_config
+simple_protocol_server
+cli_string_processor
+
+# ----------------------------------------
+# 2. Python Virtual Environment (VENV)
+# ----------------------------------------
+
+# Cijelo virtualno okruženje ne smije uci u Git
+venv/
+.venv/
+
+# ----------------------------------------
+# 3. Python Cache i Logovi
+# ----------------------------------------
+
+# Python cache direktoriji
+__pycache__/
+*.pyc
+
+# Logovi
+*.log
+
+# Boofuzz sessioni
+*.sqlite
+
+# ----------------------------------------
+# 4. Fuzzing Alati (AFL++, Radamsa, Boofuzz)
+# ----------------------------------------
+
+# AFL++ izlazni direktoriji
+# Direktoriji s izlaznim podacima, crash-evima i hangs-ovima
+implementation/targets/target_CGF/out/
+implementation/targets/target_CGF/in/.gitkeep
+
+# Radamsa (Ako ste spremali crash-eve u poseban direktorij)
+# Ovisi o setupu, ali ako spremate crash-eve u 'results' folder:
+# results/crash-dumps/
+
+# Boofuzz (Direktorij s alatima)
+boofuzz-results/
+
+# ----------------------------------------
+# 5. IDE i Sustavne Datoteke
+# ----------------------------------------
+
+# macOS datoteke
+.DS_Store
+
+# Datoteke specifične za IDE (npr. VS Code, PyCharm)
+.vscode/
+.idea/
