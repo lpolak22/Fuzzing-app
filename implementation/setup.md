@@ -25,6 +25,9 @@ Koraci prije pokretanja skripte su:
 cd implementation/tools/afl++
 
 # Kompilacija i instalacija
+# Kloniranje i kompilacija
+git clone [https://github.com/AFLplusplus/AFLplusplus.git](https://github.com/AFLplusplus/AFLplusplus.git) afl++
+cd afl++
 make all
 sudo make install
 
