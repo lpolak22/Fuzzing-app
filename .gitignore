@@ -29,7 +29,10 @@ __pycache__/
 *.pyc
 
 # Logovi
-*.log
+!results/
+!results/logs/
+!results/logs/cro-vote-app/
+!results/logs/cro-vote-app/*.txt
 
 # Boofuzz sessioni
 *.sqlite

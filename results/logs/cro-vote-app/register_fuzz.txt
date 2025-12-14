@@ -1,0 +1,3744 @@
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:00
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:01
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:02
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:03
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:04
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:05
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:06
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:07
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:08
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:11:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:09
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: oib
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:10
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:11
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: address
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:12
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: name
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:13
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: phone
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:14
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: surname
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:15
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:16
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: email
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:17
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: password
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: '
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: "
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: \
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: /
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: //
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ..
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ../
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: |
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: $(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: `
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:18
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A"
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A(
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: AAAAA'
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A'*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: A"*1000
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: 1 OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: 1' OR 1=1 --
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: <script>alert(1)</script>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: <img src=x onerror=alert(1)>
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ${7*7}
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: `ls -la`
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: ;
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:12:19
+REZULTAT: OČEKIVANA GREŠKA (za analizu) (Status: 400)
+DETALJI:
+Polje: confirm-password
+Payload: #
+Odgovor: {"error":"Bad recaptcha response!"}
+============================================================
+
