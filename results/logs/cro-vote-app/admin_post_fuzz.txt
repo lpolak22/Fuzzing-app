@@ -1,0 +1,1170 @@
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: '
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: "
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: \
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: /
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: //
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ..
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ../
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: |
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: $(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:29:28
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: #
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: '
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: "
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: \
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: /
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: //
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ..
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ../
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: |
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: $(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:29
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: #
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: '
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: "
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: \
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: /
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: //
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ..
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ../
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: |
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: $(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:36
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: #
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: '
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: "
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: \
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: /
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: //
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ..
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ../
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: |
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: $(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:31:41
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: #
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: '
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: "
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: \
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: /
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: //
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ..
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ../
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: |
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: $(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A(
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: AAAAA'
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A'*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: A"*1000
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1 OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: 1' OR 1=1 --
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <script>alert(1)</script>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: <img src=x onerror=alert(1)>
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ${7*7}
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: `ls -la`
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: ;
+Provjerite BAC! (Broken Access Control)
+============================================================
+
+============================================================
+VRIJEME: 2025-12-14 16:33:21
+REZULTAT: KRITIČNA GREŠKA: USPJEŠAN UPIS (Status: 200)
+DETALJI:
+Polje: name
+Payload: #
+Provjerite BAC! (Broken Access Control)
+============================================================
+
