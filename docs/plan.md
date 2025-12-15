@@ -114,7 +114,7 @@ Cilj faze:
 
 ---
 
-## FAZA 7 – Analiza rezultata fuzzing testiranja
+## FAZA 7 – Analiza rezultata
 
 U završnoj fazi analizirani su rezultati file-based i web fuzzing testiranja.
 
@@ -126,6 +126,7 @@ Aktivnosti:
 
 Cilj faze:
 - razumjeti sigurnosne implikacije pronađenih grešaka i procijeniti razinu sigurnosti sustava
+
 
 
 
