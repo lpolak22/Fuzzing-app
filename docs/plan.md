@@ -1,4 +1,4 @@
-# Plan rada – Praktični dio projekta (Fuzzing)
+# Plan rada – Praktični dio projekta
 
 Praktični dio projekta obuhvaća pripremu okruženja, implementaciju ciljnog programa, provođenje fuzzing testiranja nad datotekama i web aplikacijom te analizu dobivenih rezultata.
 
@@ -126,4 +126,5 @@ Aktivnosti:
 
 Cilj faze:
 - razumjeti sigurnosne implikacije pronađenih grešaka i procijeniti razinu sigurnosti sustava
+
 
