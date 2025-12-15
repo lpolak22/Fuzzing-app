@@ -1,33 +1,76 @@
+import socket
+import time
 import sys
-from scapy.all import *
+import random
 
 TARGET_IP = "127.0.0.1"
-TARGET_PORT = 53
+TARGET_PORT = 9999
 
-def fuzz_dns_packet():
-    print("Starting Scapy DNS Fuzzer (Generation-Based Fuzzing)...")
+PROTOCOL_MAGIC = b"CMD:"
+FUZZ_KEYWORD = b"FUZZ"
+
+def create_fuzzed_payload(length):
+    """
+    Generira payload koji slijedi gramatiku protokola, 
+    a zatim stvara ulaz za Buffer Overflow.
+    Gramatika: CMD:FUZZ[junk][overflow_payload]
+    """
     
-    ip_base = IP(dst=TARGET_IP)
-    udp_base = UDP(dport=TARGET_PORT)
-    dns_base = DNS(rd=1, qd=DNSQR(qname="test.local"))
-
-    base_packet = ip_base / udp_base / dns_base
+    fixed_header = PROTOCOL_MAGIC + FUZZ_KEYWORD 
     
-    fuzz_count = 0
-    for i in range(1, 10):
-        fuzzed_packet = fuzz(base_packet)
-        fuzz_count += 1
+    padding_to_offset_10 = b"XX"
+    
+    payload_len = length
+    
+    overflow_payload = b"A" * payload_len
         
-        print(f"Fuzzing iteration {fuzz_count}: Sending malformed packet.")
-                
-        if fuzz_count == 5:
-            print("\nSIMULACIJA: Target server srusen nakon 5. fuzz-a (dokaz generation fuzzinga).")
-            break
-        
-        time.sleep(0.1)
+    full_payload = fixed_header + padding_to_offset_10 + overflow_payload
+    return full_payload
 
+def fuzz_tcp_connection():
+    print("Starting Grammar/Generation Fuzzer (Buffer Overflow Test)...")
+    
+    test_lengths = [15, 16, 24, 64, 128] 
+    
+    for i, payload_len in enumerate(test_lengths):
+        
+        payload = create_fuzzed_payload(payload_len)
+        
+        total_len = len(payload)
+        
+        if total_len <= 30:
+            print(f"[{i+1}/{len(test_lengths)}] Preskakanje: Totalna duljina ({total_len}) je prekratka za ulazak u tajnu putanju.")
+            continue
+            
+        print(f"\n[{i+1}/{len(test_lengths)}] Testiranje duljine B.O. payloada: {payload_len} (Ukupna duljina: {total_len})")
+        
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s.settimeout(2)
+            s.connect((TARGET_IP, TARGET_PORT))
+            
+            s.sendall(payload)
+            
+            time.sleep(0.5)
+            s.close()
+            
+            s_check = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s_check.settimeout(1)
+            s_check.connect((TARGET_IP, TARGET_PORT))
+            s_check.close()
+            
+            print("Status: Server je preživio.")
+            
+        except ConnectionRefusedError:
+            print("!!! CRITICAL: Server srušen (Connection Refused). Payload je bio uspješan!")
+            print(f"Uspješan Payload (duljina B.O. dijela): {payload_len} bajtova.")
+            return
+
+        except socket.timeout:
+            print("Status: Timeout pri komunikaciji.")
+            
+        except Exception as e:
+            print(f"Došlo je do nepoznate greške: {e}")
+            
 if __name__ == "__main__":
-    try:
-        fuzz_dns_packet()
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    fuzz_tcp_connection()
