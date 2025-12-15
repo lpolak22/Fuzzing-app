@@ -83,9 +83,12 @@ python3 implementation/targets/target_Generation/fuzz_target4_scapy.py
 
 echo "test" | radamsa | implementation/targets/target_Mutation/cli_string_processor
 
+# INSTALACIJA OWASP ZAP
 # Za testiranje odabrane web aplikacije
 sudo snap install zaproxy --classic
 
+# Pokretanje snimanja mrežnog prometa
+sudo tcpdump -i enp0s3 tcp port 8000 -w traffic.pcap
 
 # INSTALIRANJE JENKINS
 

@@ -1,0 +1,6 @@
+Task ID,Message Type,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Req. Header,Size Req. Body,Size Resp. Header,Size Resp. Body,Highest Alert,State,Payloads
+0,Original,Mon Dec 15 17:22:04 CET 2025,POST,https://10.0.2.15:8000/api/login,401,Unauthorized,88,452,37,1150,68,,,[]
+4,Fuzzed,Mon Dec 15 17:39:57 CET 2025,POST,https://10.0.2.15:8000/api/login,400,Bad Request,756,454,1602,1149,35,,,"[48425966747, lozinka123]"
+1,Fuzzed,Mon Dec 15 17:39:57 CET 2025,POST,https://10.0.2.15:8000/api/login,400,Bad Request,781,454,1593,1153,35,,,"[15082092164, .]"
+3,Fuzzed,Mon Dec 15 17:39:57 CET 2025,POST,https://10.0.2.15:8000/api/login,400,Bad Request,783,454,1593,1155,35,,,"[48425966747, .]"
+2,Fuzzed,Mon Dec 15 17:39:57 CET 2025,POST,https://10.0.2.15:8000/api/login,400,Bad Request,791,454,1602,1151,35,,,"[15082092164, lozinka123]"
