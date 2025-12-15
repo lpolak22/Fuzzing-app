@@ -90,9 +90,9 @@ Cilj faze:
 
 ---
 
-## FAZA 6 – Web fuzzing (REST API fuzzing)
+## FAZA 6 – Web fuzzing
 
-U ovoj fazi provedeno je fuzzing testiranje web aplikacije kroz REST API sučelje.
+U ovoj fazi provedeno je fuzzing testiranje web aplikacije iz SIS prošlogodišnjeg projekta za "online secure voting" kroz REST API sučelje.
 
 ### Metode fuzzinga:
 - **Mutation-based fuzzing**
@@ -126,5 +126,6 @@ Aktivnosti:
 
 Cilj faze:
 - razumjeti sigurnosne implikacije pronađenih grešaka i procijeniti razinu sigurnosti sustava
+
 
 
