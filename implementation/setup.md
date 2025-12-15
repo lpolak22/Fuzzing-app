@@ -62,7 +62,7 @@ radamsa --version
 cd ~/Documents/SIS/projekt/Fuzzing-app  #treba se pozicionirati u root folder 
 cd implementation/targets/target_CGF
 afl-clang-fast parser_config.c -o parser_config
-cd ~/Documents/SIS/projekt/Fuzzing-app 
+cd ~/Documents/SIS/projekt/Fuzzing-app  #treba se pozicionirati u root folder 
 afl-fuzz -i implementation/targets/target_CGF/in -o implementation/targets/target_CGF/out implementation/targets/target_CGF/parser_config
 
 
@@ -82,3 +82,6 @@ python3 implementation/targets/target_Generation/fuzz_target4_scapy.py
 
 
 echo "test" | radamsa | implementation/targets/target_Mutation/cli_string_processor
+
+# Za testiranje odabrane web aplikacije
+sudo snap install zaproxy --classic
