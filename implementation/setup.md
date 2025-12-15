@@ -85,3 +85,44 @@ echo "test" | radamsa | implementation/targets/target_Mutation/cli_string_proces
 
 # Za testiranje odabrane web aplikacije
 sudo snap install zaproxy --classic
+
+
+# INSTALIRANJE JENKINS
+
+# Ažuriranje indeksa paketa
+sudo apt update
+
+# Instalacija OpenJDK 17
+sudo apt install openjdk-17-jdk -y
+
+# Provjera je li Java ispravno instalirana
+java -version
+
+
+# 1. Uvoz GPG ključa
+# Dohvat i spremanje GPG ključa repozitorija
+curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
+  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+
+# 2. Dodavanje Jenkins repozitorija u sources.list
+# Stvaranje nove datoteke koja definira Jenkins repozitorij
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+  https://pkg.jenkins.io/debian binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+# 3. Ažuriranje paketa nakon dodavanja novog repozitorija
+sudo apt-get update
+
+# Instalacija Jenkins paketa
+sudo apt-get install jenkins
+
+# Pokretanje Jenkins servisa (ako se nije automatski pokrenuo)
+sudo systemctl start jenkins
+
+# Provjera statusa servisa
+# Status mora biti 'active (running)'
+sudo systemctl status jenkins
+
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+# DA POKRENETE JENKINS SAMO U URL U BROWSERU UKUCAJTE localhost:8080
